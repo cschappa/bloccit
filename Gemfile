@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 # Use Bootstrap
 gem 'bootstrap-sass'
 
+# adding Pry
+gem 'pry-rails'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
 
