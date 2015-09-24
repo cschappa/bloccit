@@ -34,6 +34,9 @@ gem 'faker'
 # Use Devise for authentication
 gem 'devise'
 
+# Use Pundit for authorization
+gem 'pundit'
+
 # Use Figaro for environment variables
 gem 'figaro', '1.0'
 
